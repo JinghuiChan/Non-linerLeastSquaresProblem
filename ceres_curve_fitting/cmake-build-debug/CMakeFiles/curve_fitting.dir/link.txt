@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/curve_fitting.dir/main.cpp.o  -o curve_fitting 
